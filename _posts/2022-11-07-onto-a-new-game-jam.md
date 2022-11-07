@@ -27,7 +27,7 @@ Here is my plan:
 | Character Animations - MVP | Running, walking animations |
 | Player Polish | Fixing issues, improving game feeling |
 | Enemy Polish | Fixing issues, improving game feeling |
-| Protagonist Polish | Fixing issues, improving game feeling |
+| Antagonist Polish | Fixing issues, improving game feeling |
 | Audio MVP | Shotting, walking, impact sounds |
 | Particle System Polish | Improving muzzle flash, impact and projectile particle effects |
 | Play Test | get rekt |
