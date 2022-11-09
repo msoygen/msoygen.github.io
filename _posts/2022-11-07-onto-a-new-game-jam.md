@@ -8,6 +8,10 @@ tags: [devlog]
 
 Hi everyone! [Game Off 2022](https://itch.io/jam/game-off-2022) submissions started 7 days ago. I decided to join with an FPS shooter game. This time I'm not only gonna write a postmortem but also a devlog. I really want to make YouTube videos about it too but first let me tell you what I'm planning. The theme is cliche. This brings lots of ideas to my mind which inevitably many will be discarded. I started with the unlimited ammo cliche then iterated to a shooter game called Protagonist vs Antagonist([GitHub Repo](https://github.com/msoygen/Protagonist-vs-Antagonist)). Enemies will come in waves, both the player(protagonist) and the enemies will have unlimited ammo, unrealistic damage rates, unrealistic health regeneration(like going over an apple - am I too good for this? :D -) and at the end of each wave the antagonist will come into the scene with guns that uses projectile ammo (unlike others using raycasts)  with the ability to perish protagonist with one shot. The objetive is to not get shot by the antagonist and complete waves. 
 
+## *Edit(On the go development updates)*
+
+* 9 November: Now that I'm into development, I noticed that Enemy Shooting AI should be a separate entry on the timetable. All of the MVPs until Levels - Gray Box entry of the table are going to be drafts first then MVPs because I'm watching tutorials, trying out stuff and to be able to keep track I should've started with drafts rather than MVPs at the beginning. 
+
 Here is my plan:
 
 | Goal      | Description |
@@ -16,6 +20,7 @@ Here is my plan:
 | Player Shooting MVP   | Bare minimum: single gun, shotting, muzzle flash, impact        |
 | Enemy Controller MVP   | Bare minimum: single gun, looking around, walking, jumping         |
 | Enemy AI MVP   | Bare minimum: following the player up to a range, shooting plyer        |
+| Enemy Shooting AI MVP   | Bare minimum: single gun, raycast ammo        |
 | Antagonist Controller MVP   | Bare minimum: looking around, walking, jumping        |
 | Antagonist Shooting MVP   | Bare minimum: single gun, one shot kill, projectile ammo        |
 | Antagonist AI MVP   | Bare minimum: following the player up to a range, shooting palyer        |
